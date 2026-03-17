@@ -1,4 +1,4 @@
-# 📊 Análisis de Desempeño de Empleados (SQL + Excel)
+# Análisis de Desempeño de Empleados (SQL + Excel)
 
 ## Descripción del proyecto:
 
