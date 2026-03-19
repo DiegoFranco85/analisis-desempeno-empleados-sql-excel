@@ -72,6 +72,8 @@ Se construyó un dashboard interactivo en Excel que incluye:
 * `dashboard.xlsx` → dashboard final en Excel
 * `README.md` → documentación del proyecto
 
+## Dashboard
+![Dashboard](IMAGES/DASHBOARD.png)
 ---
 
 ## Conclusión
