@@ -22,7 +22,7 @@ El objetivo es simular un caso real del área de Recursos Humanos, donde se eval
 El proyecto se basa en una base de datos relacional con las siguientes tablas:
 
 * **empleados**: información general del empleado (nombre, edad, salario, puesto y departamento).
-* **puesto**: catálogo de puestos dentro de la empresa.
+* **puesto**: catálogo de puestos dentro de la empresa..
 * **departamento**: áreas de la empresa.
 * **desempeno**: evaluaciones de desempeño por empleado con fecha y puntuación.
 
